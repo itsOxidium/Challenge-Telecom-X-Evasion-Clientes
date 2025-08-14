@@ -1,12 +1,18 @@
-# Telecom-X-Part1
+# Challenge-Telecom-X-Evasion-Clientes
+
+## 🚀 Ejecución rápida en Google Colab
+
+Ejecuta el notebook directamente desde Colab:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tx6w4IwWZYVSHdpD-vXwsAQDbrK9KGlR?usp=sharing)
 
 # 📊 Análisis de Evasión de Clientes (Churn)
-![Banner del Proyecto](banner.png)
+
 
 Telecom X - Análisis de Evasión de Clientes Has sido contratado como asistente de análisis de datos en Telecom X y formarás parte del proyecto "Churn de Clientes". La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.Este proyecto analiza la tasa de evasión (churn) de clientes en una empresa de telecomunicaciones utilizando técnicas de limpieza, visualización y análisis exploratorio de datos. El objetivo es descubrir patrones que permitan anticipar la cancelación del servicio y proponer estrategias para mejorar la retención.
 
 
-#📌 Introducción Técnica
+## 📌 Introducción Técnica
 
 
 Este proyecto aborda el desafío de identificar patrones de evasión (churn) en clientes de telecomunicaciones mediante un enfoque sistemático de análisis de datos. Se parte de un archivo JSON con estructura jerárquica que se normaliza y fusiona, permitiendo construir un dataset unificado y listo para exploración.
@@ -26,11 +32,7 @@ contribuyendo al diseño de estrategias orientadas a la fidelización y optimiza
 - 📉 Cálculo de correlaciones relevantes
 - 📘 Informe final con conclusiones y recomendaciones estratégicas
 
-## 🚀 Ejecución rápida en Google Colab
 
-Ejecuta el notebook directamente desde Colab:
-
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UoX1W11kyaD6XhfkWa9tgEH1z6tKiH32?usp=sharing)
 
 ## 🧠 Tecnologías utilizadas
 
@@ -40,10 +42,3 @@ Ejecuta el notebook directamente desde Colab:
 - Matplotlib
 - Plotly
 - Google Colab
-
-## 📘 Autor
-
-## 📍 Autor
-**David Ricardo Cruz Juarez**  
-🔗 [https://davidrcj.github.io/Portfolio-Alura-ONE/]  
-🚀 Desarrollador con interés en ciencia de datos, sistemas embebidos y eficiencia operativa.
